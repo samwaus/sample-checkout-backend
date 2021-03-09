@@ -1,0 +1,20 @@
+[
+  {
+    "id": "small_pizza",
+    "name": "Small Pizza",
+    "description": "10'' pizza for one person",
+    "retailPrice": 26999
+  },
+  {
+    "id": "medium_pizza",
+    "name": "Medium Pizza",
+    "description": "12'' Pizza for two persons",
+    "retailPrice": 32299
+  },
+  {
+    "id": "large_pizza",
+    "name": "Large Pizza",
+    "description": "15'' pizza for four persons",
+    "retailPrice": 39499
+  }
+]

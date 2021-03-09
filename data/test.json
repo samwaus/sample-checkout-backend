@@ -1,0 +1,25 @@
+{
+  "rules": [
+    {
+      "item": "large_pizza",
+      "type": "discount",
+      "condition": {
+        "price": 29999
+      }
+    }
+  ],
+  "orderItems": [
+    {
+      "itemId": "small_pizza",
+      "quantity": 0
+    },
+    {
+      "itemId": "medium_pizza",
+      "quantity": 3
+    },
+    {
+      "itemId": "large_pizza",
+      "quantity": 1
+    }
+  ]
+}

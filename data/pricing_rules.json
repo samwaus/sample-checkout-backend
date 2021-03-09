@@ -1,0 +1,50 @@
+[
+  {
+    "id": "microsoft",
+    "companyName": "Microsoft",
+    "rules": [
+      {
+        "item": "small_pizza",
+        "type": "free",
+        "condition": {
+          "free": 1,
+          "buy": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": "facebook",
+    "companyName": "Facebook",
+    "rules": [
+      {
+        "item": "medium_pizza",
+        "type": "free",
+        "condition": {
+          "free": 1,
+          "buy": 4
+        }
+      },
+      {
+        "item": "large_pizza",
+        "type": "discount",
+        "condition": {
+          "price": 38999
+        }
+      }
+    ]
+  },
+  {
+    "id": "amazon",
+    "companyName": "Amazon",
+    "rules": [
+      {
+        "item": "large_pizza",
+        "type": "discount",
+        "condition": {
+          "price": 29999
+        }
+      }
+    ]
+  }
+]

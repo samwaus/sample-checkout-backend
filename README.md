@@ -1,4 +1,4 @@
-# BEPOZ Product Checkout Sample Code
+# Sample Product Checkout Sample Code
 
 ## API
 
